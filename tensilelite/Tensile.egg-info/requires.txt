@@ -1,0 +1,16 @@
+packaging
+pyyaml
+msgpack
+simplejson
+ujson
+orjson
+yappi
+
+[:python_version < "3.8"]
+joblib>=1.1.1
+
+[:python_version == "3.6"]
+dataclasses
+
+[:python_version >= "3.8"]
+joblib>=1.4.0
