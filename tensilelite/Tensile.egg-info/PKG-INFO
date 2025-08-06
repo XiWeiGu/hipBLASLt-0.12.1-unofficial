@@ -15,7 +15,7 @@ Requires-Dist: joblib>=1.1.1; python_version < "3.8"
 Requires-Dist: simplejson
 Requires-Dist: ujson
 Requires-Dist: orjson
-Requires-Dist: yappi
+Requires-Dist: distro
 Dynamic: author
 Dynamic: home-page
 Dynamic: license
