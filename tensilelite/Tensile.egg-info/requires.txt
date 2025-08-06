@@ -4,7 +4,7 @@ msgpack
 simplejson
 ujson
 orjson
-yappi
+distro
 
 [:python_version < "3.8"]
 joblib>=1.1.1
